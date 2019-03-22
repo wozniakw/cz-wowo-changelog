@@ -1,7 +1,7 @@
 {
-  "name": "cz-conventional-changelog",
-  "version": "0.0.0-semantically-released.0",
-  "description": "Commitizen adapter following the conventional-changelog format.",
+  "name": "cz-wowo-changelog",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
